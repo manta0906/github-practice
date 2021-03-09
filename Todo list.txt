@@ -1,0 +1,11 @@
+Todo list
+
+1. make git-hub account
+
+2. make documnet
+
+3. start project
+
+4. hello world
+
+5. commit
