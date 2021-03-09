@@ -9,3 +9,5 @@ Todo list
 4. hello world
 
 5. commit
+
+6. how to use gitlens
